@@ -35,8 +35,14 @@ Here are some ideas to get you started:
   <a href="https://jquery.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/> </a>
     <a href="https://www.thymeleaf.org/" target="_blank"><img align="center" src="https://img.icons8.com/color/75/000000/thymeleaf.png" alt="thymeleaf" width="40" height="40"/></a>
 
+    <br>
+    <br>
+    <br>
+    <br>
            
-  
+
+    <a href="https://icons8.com/icon/iWpVsSkAqPpZ/thymeleaf">Thymeleaf icon by Icons8</a>
+    
   </p>
 <br><br>
 
