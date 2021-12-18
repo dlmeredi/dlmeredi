@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 
 <li>🚀 I'm currently working on - a weather application<br><br>
-<li>🌱 I'm currently learning - TypeScript<br><br>
+<li>🌱 I'm currently reinforcing - Java<br><br>
 <li>📩 Connect with me -  <a href="https://linkedin.com/in/diamond-meredith-anderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diamond-meredith-anderson-613260213/" height="20" width="30" /></a><br><br>
 <li>😄 My <b>Pronouns</b> - she/her <br><br>
 <li>💥 Fun fact - I enjoy dancing <br><br>
