@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://jquery.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/> </a>
-  <a href="https://www.thymeleaf.org/" target="_blank"><img src="https://img.icons8.com/color/75/000000/thymeleaf.png" alt="thymeleaf" width="40" height="40"/></a>
 </p>
 <br>
 <br>
@@ -47,6 +46,5 @@ Here are some ideas to get you started:
   
 <br><br>
   
-<a href="https://icons8.com/icon/iWpVsSkAqPpZ/thymeleaf">Thymeleaf icon by Icons8</a>
            
 
