@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <center><h4>Software developer with years of customer service experience and strong problem solving skills. A natural curiosity for technology coupled with the desire to seek out a challenging new career led to the decision to transition into web development. Looking forward to the opportunity to leverage my knack for problem solving and technical skills to work for an employer with a strong desire to develop future leaders.</h4></center>
 <br>
 
-<li>🚀 I'm currently working on - my chess game ♟<br><br>
-<li>🌱 I'm currently reinforcing - Java<br><br>
+<li>🚀 I'm currently working on - various projects<br><br>
+<li>🌱 I'm currently learning - Java<br><br>
 <li>📚 I'm currently reading - "Dune" by Frank Herbert<br><br>
 <li>📩 Connect with me -  <a href="https://www.linkedin.com/in/diamond-meredith/
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diamond-meredith/" height="20" width="30" /></a><br><br>
