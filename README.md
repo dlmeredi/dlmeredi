@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center><h4>Software developer with years of customer service experience and strong problem solving skills. A natural curiosity for technology coupled with the desire to seek out a challenging new career led to the decision to transition into web development. Looking forward to the opportunity to leverage my knack for problem solving and technical skills to work for an employer with a strong desire to develop future leaders.</h4></center>
-<br>
+<!-- <center><h4>Software developer with years of customer service experience and strong problem solving skills. A natural curiosity for technology coupled with the desire to seek out a challenging new career led to the decision to transition into web development. Looking forward to the opportunity to leverage my knack for problem solving and technical skills to work for an employer with a strong desire to develop future leaders.</h4></center>
+<br> -->
 
 <li>🚀 I'm currently working on - 💬 <br><br>
 <li>🌱 I'm currently learning - 💬 <br><br>
