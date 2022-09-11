@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- <center><h4>Software developer with years of customer service experience and strong problem solving skills. A natural curiosity for technology coupled with the desire to seek out a challenging new career led to the decision to transition into web development. Looking forward to the opportunity to leverage my knack for problem solving and technical skills to work for an employer with a strong desire to develop future leaders.</h4></center>
 <br> -->
 
-🧪 I'm currently working on - *ALL* of the things <br><br>
+🛠 I'm currently working on - *ALL* of the things <br><br>
 🌱 I'm currently learning - Swift + SwiftUI <br><br>
 📚 I'm currently reading - "Dune" by Frank Herbert + "Learn to Code HTML & CSS" by Shay Howe + a multitude of articles
 <!-- 📩 Connect with me -  <a href="https://www.linkedin.com/in/diamond-meredith/
