@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 🛠 I'm currently working on - *ALL* of the things <br><br>
 🌱 I'm currently learning - Tableau <br><br>
-📚 I'm currently reading - "Dune" by Frank Herbert + "Learn to Code HTML & CSS" by Shay Howe + "Develop in Swift, Explorations"
+📚 I'm currently reading - "Dune" by Frank Herbert + "Learn to Code HTML & CSS" by Shay Howe <br><br>
 📩 Connect with me -  <a href="https://www.linkedin.com/in/diamond-meredith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diamond-meredith/" height="20" width="30" /></a><br><br>
 😄 My <b>Pronouns</b> - she/her <br><br>
-✨ Fun fact - I enjoy spontaneous dancing & eating delicious pizza<br><br>
+✨ Fun fact - I enjoy spontaneous dancing & eating <b>great</b> pizza<br><br>
 <h4 align="left">Languages & Tools:</h4>. 
 <p align="left"><a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
