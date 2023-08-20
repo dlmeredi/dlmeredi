@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 If you know of any unique Open Source opportunities, let me know, I'd be happy to participate!</h4></center>
 <br>
 
-🛠 I'm currently working on - various projects <br><br> 
-🌱 I'm currently learning - new Java concepts <br><br>
+🛠 I'm currently working on - updating portfolio + building sites for nonprofit <br><br> 
+🌱 I'm currently learning - all of the things, too many to list <br><br>
 👥 I’m looking to collaborate on - projects & open source<br><br>
 📚 I'm <i>still</i> reading - "Dune" by Frank Herbert <br><br>
 😄 My <b>Pronouns</b> - she/her <br><br>
