@@ -21,9 +21,9 @@ If you know of any unique Open Source opportunities, let me know, I'd be happy t
 
 🛠 I'm currently working on - updating my portfolio + building nonprofit sites <br><br> 
 🌱 I'm currently learning - wordpress + terraform! <br><br>
-👥 I’m looking to collaborate on - web design projects & open source<br><br>
+👥 I’m looking to collaborate on - web design projects + open source<br><br>
 📚 I'm reading - multiple books, ask me about my current list lol <br><br>
-😄 My <b>Pronouns</b> - she/her <br><br>
+😄 My pronouns - she/her <br><br>
 ✨ Fun fact - I sleep a lot <br><br>
 📩 Connect with me -  <a href="https://www.linkedin.com/in/diamond-meredith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diamond-meredith/" height="20" width="30" /></a><br><br>
 <h4 align="left">Languages & Tools:</h4>. 
