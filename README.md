@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 If you know of any unique Open Source opportunities, let me know, I'd be happy to participate!</h4></center>
 <br>
 
-🛠 I'm currently working on - updating portfolio + building sites for nonprofit <br><br> 
-🌱 I'm currently learning - my portfolio + a nonprofit website <br><br>
+🛠 I'm currently working on - updating my portfolio + building nonprofit sites <br><br> 
+🌱 I'm currently learning - wordpress + terraform! <br><br>
 👥 I’m looking to collaborate on - web design projects & open source<br><br>
 📚 I'm reading - multiple books, ask me about my current list lol <br><br>
 😄 My <b>Pronouns</b> - she/her <br><br>
