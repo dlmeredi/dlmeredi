@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center><h4>I'm a Software Developer with expertise in customer service and strong problem solving skills. A natural curiosity for technology coupled with the desire to seek out a challenging new career led to the decision to transition into web development. I'm looking forward to the opportunity to leverage my knack for problem solving and technical skills to work for an employer with a strong desire to develop future leaders.
-<br><br>
-If you know of any unique Open Source opportunities, let me know, I'd be happy to participate!</h4></center>
-<br>
-
+<center>
 🛠 I'm currently working on - updating my portfolio + building nonprofit sites <br><br> 
 🌱 I'm currently learning - wordpress + terraform! <br><br>
 👥 I’m looking to collaborate on - web design projects + open source<br><br>
