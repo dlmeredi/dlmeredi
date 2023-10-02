@@ -1,4 +1,4 @@
-### <h2 align="center">What's up, 👋🏾 I'm Diamond!</h2>
+<img src="https://static.wixstatic.com/media/e4f528_349b9671c3cd41afb99ea2f5b3218a3a~mv2.png">
 
 <!--
 **dlmeredi/dlmeredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <center>
 🛠 I'm currently working on - updating my portfolio + building nonprofit sites <br><br> 
-🌱 I'm currently learning - wordpress + terraform! <br><br>
+🌱 I'm currently learning - terraform! <br><br>
 👥 I’m looking to collaborate on - web design projects + open source<br><br>
 📚 I'm reading - multiple books, ask me about my current list lol <br><br>
 😄 My pronouns - she/her <br><br>
