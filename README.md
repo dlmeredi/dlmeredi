@@ -1,4 +1,4 @@
-<img src="https://static.wixstatic.com/media/e4f528_349b9671c3cd41afb99ea2f5b3218a3a~mv2.png">
+<img src="https://static.wixstatic.com/media/e4f528_a333e44296cc4be3bb6b2eb0cb229bb6~mv2.png">
 
 <!--
 **dlmeredi/dlmeredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <center>
-🛠 I'm currently working on - updating my portfolio + building nonprofit sites <br><br> 
+🛠 I'm currently working on - updating my portfolio + building projects <br><br> 
 🌱 I'm currently learning - terraform! <br><br>
 👥 I’m looking to collaborate on - web design projects + open source<br><br>
 📚 I'm reading - multiple books, ask me about my current list lol <br><br>
