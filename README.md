@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <center>
 🛠 I'm currently working on - updating my portfolio + building projects <br><br> 
 🌱 I'm currently learning - terraform! <br><br>
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
   
   
 <br><br>
+  -->
   
            
 
