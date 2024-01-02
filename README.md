@@ -1,6 +1,6 @@
-<img src="https://static.wixstatic.com/media/e4f528_a333e44296cc4be3bb6b2eb0cb229bb6~mv2.png">
+<!-- <img src="https://static.wixstatic.com/media/e4f528_a333e44296cc4be3bb6b2eb0cb229bb6~mv2.png">
 
-<!--
+
 **dlmeredi/dlmeredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
